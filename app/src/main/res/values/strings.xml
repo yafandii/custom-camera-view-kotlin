@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Camera View</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
